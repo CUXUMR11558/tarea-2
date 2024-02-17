@@ -1,0 +1,62 @@
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(../IMAGENES/carrofondo1.jpg);
+    background-size: 15cm;
+}
+#titulo{
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+p{
+    text-align: justify;
+    font-size: 25px;
+    color: black;
+    
+}
+
+h2{
+    font-size: 40px;
+    text-align: left;
+    color: black;
+
+}
+
+h3{
+    font-size: 35px;
+    text-align: left;
+    color: black;
+    }
+#carro{
+   margin-left: 35%;
+}
+
+table{
+    margin: 0 auto;
+    border-collapse: collapse;    
+}
+tr{
+    border: solid;
+}
+th{
+    border: solid;
+}
+td{
+    border: solid;
+}
+thead{
+    background-color: blue;
+    align-content: center;
+}
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    font-size: 30px;
+}
+.div1{
+    border: solid;
+    background-color: blue;
+    text-align: center;
+
+}
